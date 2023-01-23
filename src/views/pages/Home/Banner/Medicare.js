@@ -43,7 +43,7 @@ const useStyles = makeStyles((theme)=>({
             padding:"10px 0px 30px 0px",
         },
         "& p":{
-            padding:'26px 0px 25px 0px',
+            padding:'25px 0px 25px 0px',
         }
     },
     secondbox:{
