@@ -9,8 +9,6 @@ import CustomerSay from "./Banner/CustomerSay";
 import Newsletter from "./Banner/Newsletter";
 import Lastsection from "./Banner/Lastsection";
 
-
-
 function Home(props) {
   return (
     <Page title="MediCare | Medicare">

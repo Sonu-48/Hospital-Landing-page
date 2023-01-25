@@ -71,6 +71,43 @@ const baseOptions = {
         right: 0,
       },
     },
+    MuiTableHead:{
+      root:{
+        backgroundColor:'#271c1c',
+        border:'0.5px solid #707070',
+        
+      }
+
+    },
+    MuiTableCell:{
+      root:{
+        borderBottom:'0.5px solid #707070',
+        fontSize:'12px',
+
+      },
+      head:{
+        color:'#ffff',
+       border:'none',
+      }
+    },
+    MuiTable:{
+      root:{
+        minWidth:'980px',
+      }
+
+    },
+    MuiMenuItem:{
+      root:{
+        padding:'0px 25px 0px 25px'
+      }
+
+    },
+    MuiSelect:{
+      icon:{
+        color:'#707070',
+      }
+
+    },
     MuiDialog: {
       paperScrollPaper: {
         Width: 450,
